@@ -7,8 +7,7 @@ Notification tray menu for Xbox 360 Devkit console control
 - Open/Close Disc Tray
 
 ### General Notes
-**Requires an Xbox 360 Development Kit with Sidecar**
-**Command are sent via the Sidecar USB port**
+**Requires an Xbox 360 Development Kit with Sidecar. Command are sent via the Sidecar USB port**
 
 Creates an icon in the windows notification tray that can be right clicked to activate a ContextMenu providing some basic console control options.
 
